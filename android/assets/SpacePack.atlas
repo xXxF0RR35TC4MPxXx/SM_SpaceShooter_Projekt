@@ -1,0 +1,167 @@
+
+SpacePack.png
+size: 4096, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+8bitbackground
+  rotate: false
+  xy: 1200, 830
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+8bitbackground2
+  rotate: false
+  xy: 0, 830
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+ExtraLifePowerup
+  rotate: false
+  xy: 2998, 1998
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ExtraSpeedPowerUp
+  rotate: false
+  xy: 498, 498
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MoreBulletsPowerup
+  rotate: false
+  xy: 598, 598
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Shield1
+  rotate: false
+  xy: 2400, 1532
+  size: 498, 498
+  orig: 498, 498
+  offset: 0, 0
+  index: -1
+Shield2
+  rotate: false
+  xy: 2400, 1034
+  size: 498, 498
+  orig: 498, 498
+  offset: 0, 0
+  index: -1
+Shield3
+  rotate: false
+  xy: 0, 132
+  size: 498, 498
+  orig: 498, 498
+  offset: 0, 0
+  index: -1
+alien1
+  rotate: false
+  xy: 1000, 644
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+doubleLaserPowerup
+  rotate: false
+  xy: 100, 100
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemyBullet
+  rotate: false
+  xy: 2898, 1850
+  size: 30, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 1000, 719
+  size: 666, 111
+  orig: 666, 111
+  offset: 0, 0
+  index: -1
+laserBlue05
+  rotate: false
+  xy: 1696, 793
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+laserRed05
+  rotate: false
+  xy: 1099, 682
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+leftButton
+  rotate: false
+  xy: 2898, 1930
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playerBullet
+  rotate: false
+  xy: 1666, 750
+  size: 30, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+playerExplosions
+  rotate: false
+  xy: 0, 630
+  size: 1000, 200
+  orig: 1000, 200
+  offset: 0, 0
+  index: -1
+powerShotPowerUp
+  rotate: false
+  xy: 2493, 1002
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rightButton
+  rotate: false
+  xy: 498, 530
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 2400, 935
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+shotButton
+  rotate: false
+  xy: 0, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+singleLaserPowerup
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tripleLaserPowerup
+  rotate: false
+  xy: 2400, 903
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

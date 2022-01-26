@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SM_SpaceShooter_Projekt</string>
+    <string name="score">Wynik</string>
+    <string name="shields">Tarcze</string>
+    <string name="lives">Życia</string>
+    <string name="pause">Pauza</string>
+    <string name="play">Graj</string>
+    <string name="options">Opcje</string>
+    <string name="ranking">Ranking</string>
+    <string name="about">O grze</string>
+    <string name="exit">Wyjście</string>
+    <string name="game_over">Koniec gry</string>
+    <string name="game_is_paused">Gra jest zapauzowana!</string>
+    <string name="touch_here_to_continue">Dotknij przycisk pauzy, żeby kontynuować</string>
+    <string name="tap_here_to_menu">Dotknij TUTAJ aby wrócić do menu</string>
+    <string name="your_score">Twój wynik:</string>
+    <string name="enter_your_name">Podaj nazwę gracza:</string>
+    <string name="Leave_to_menu">Wróć do menu</string>
+    <string name="submit_score">Wyślij wynik</string>
+    <string name="made_by">Stworzył: Mateusz Jeżewski</string>
+    <string name="technology">JAVA, libgdx</string>
+    <string name="YT_link">https://www.youtube.com/watch?v=dQw4w9WgXcQ</string>
+    <string name="libgdx_website">https://libgdx.com/</string>
+    <string name="date">01.2022</string>
+    <string name="location">Lokalizacja: </string>
+    <string name="chrome_link">Strona biblioteki (kliknij)</string>
+    <string name="return_to_menu">Powrót</string>
+    <string name="language">Język:</string>
+    <string name="internet">Wi-Fi:</string>
+    <string name="on">Włączone</string>
+    <string name="off">Wyłączone</string>
+    <string name="space_skin">Typ statku:</string>
+
+</resources>
